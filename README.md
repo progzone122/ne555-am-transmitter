@@ -9,6 +9,6 @@
 ![pcb](pcb.png)
 
 ## Download
-[Gerber archive](gerber.zip)
-[EasyEDA json](easyeda.json)
+- [Gerber archive](gerber.zip)
+- [EasyEDA json](easyeda.json)
 
